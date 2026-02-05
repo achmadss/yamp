@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidstarter"
+    namespace = "dev.achmad.yamp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.androidstarter"
+        applicationId = "dev.achmad.yamp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
